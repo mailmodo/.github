@@ -16,7 +16,7 @@ To start using Mailmodo, follow these steps:
 - **Dynamic Forms**: Incorporate interactive forms directly within emails, allowing for real-time data collection and user engagement.
 
 ## Support
-Mailmodo provides dedicated human support, including concierge onboarding, to assist users in achieving their email marketing goals. [Get support here](https://mailmodo.com/contact).
+Mailmodo provides dedicated human support/demo, including concierge onboarding, to assist users in achieving their email marketing goals. [Get support/demo here](https://www.mailmodo.com/demo/).
 
 ## Use Cases
 Mailmodo supports various email marketing use cases to help grow brands, including:
